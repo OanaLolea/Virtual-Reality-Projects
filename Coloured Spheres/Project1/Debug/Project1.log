@@ -1,0 +1,17 @@
+﻿  main.cpp
+D:\VR\Project1\Project1\Scene.h(11,101): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\VR\Project1\Project1\Scene.h(12,101): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\VR\Project1\Project1\Scene.h(13,99): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\VR\Project1\Project1\Scene.h(14,99): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\VR\Project1\Project1\Scene.h(15,100): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\VR\Project1\Project1\Scene.h(16,101): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\VR\Project1\Project1\Scene.h(17,100): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\VR\Project1\Project1\Scene.h(18,102): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\VR\Project1\Project1\main.cpp(75,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\VR\Project1\Project1\main.cpp(76,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\VR\Project1\Project1\main.cpp(130,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VR\Project1\Project1\main.cpp(133,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\VR\Project1\Project1\main.cpp(133,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\VR\Project1\Project1\main.cpp(137,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\VR\Project1\Project1\main.cpp(137,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Project1.vcxproj -> D:\VR\Project1\Debug\Project1.exe
